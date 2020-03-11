@@ -22,7 +22,7 @@
                             "components": [
                                 {
                                     "type": "label",
-                                    "text": "It's ALIVE!",
+                                    "text": "Welcome to ZeFi",
                                     "style": {
                                         "align": "center",
                                         "font": "Courier-Bold",
